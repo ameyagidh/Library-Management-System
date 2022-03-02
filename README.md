@@ -24,4 +24,6 @@ Install my-project
 
 ![Login Page](https://user-images.githubusercontent.com/65457905/156272402-da68e2df-68e4-482e-8666-61bef716ba1c.png) ![Sign Up](https://user-images.githubusercontent.com/65457905/156272405-5b0925e1-ccd0-48a9-9e02-4a50171c6a98.png)
 
+![Add Student](https://user-images.githubusercontent.com/65457905/156272580-c7500609-9e70-4bac-b190-562e86995b95.png) ![Adding a book](https://user-images.githubusercontent.com/65457905/156272581-e0e124e0-8b22-4210-8e73-0ab646709d30.png)
+
 
