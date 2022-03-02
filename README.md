@@ -13,7 +13,7 @@ It keep a track of the date issued and dat of return of a book.
 Install my-project 
 ### Requirements:-
  1. Java JDK (Version - 15 and above).
- 2. Java integrated development environment (IDE) preffered(netbeans).
+ 2. Java integrated development environment (IDE) prefered(netbeans).
  3. Import the library mysql-connector-java-8.0.26.jar
  4. MYSQL environment.
 
