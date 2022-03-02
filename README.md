@@ -32,7 +32,9 @@ check the book availability without roaming in the library trying to search for 
 It keep a track of the date issued and dat of return of a book.
 
 Screenshots
-![Home](https://user-images.githubusercontent.com/65457905/156272001-9a2f1bd1-49ff-4119-b6c3-24084f701ad3.png) ![Issue Book](https://user-images.githubusercontent.com/65457905/156272120-1329e3f0-ef7d-4840-b103-9a21ea98311e.png)
+![Home](https://user-images.githubusercontent.com/65457905/156272001-9a2f1bd1-49ff-4119-b6c3-24084f701ad3.png) 
+
+![Issue Book](https://user-images.githubusercontent.com/65457905/156272120-1329e3f0-ef7d-4840-b103-9a21ea98311e.png)
 
 
 
